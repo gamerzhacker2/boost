@@ -1,0 +1,7 @@
+tls_client
+typing_extensions
+requests
+discord.py
+py-cord
+pystyle
+colorama
